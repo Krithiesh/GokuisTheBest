@@ -1,0 +1,2 @@
+# GokuisTheBest
+Everything about Goku
