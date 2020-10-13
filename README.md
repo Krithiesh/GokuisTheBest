@@ -1,2 +1,2 @@
 # GokuisTheBest
-Everything about Goku
+Everything about Goku. He is the Hero in DragonBall series.
