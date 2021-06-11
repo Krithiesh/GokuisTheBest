@@ -1,0 +1,1 @@
+SELECT * FROM frieza_saga;
